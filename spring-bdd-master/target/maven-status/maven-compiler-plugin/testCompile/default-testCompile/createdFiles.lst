@@ -1,0 +1,4 @@
+com\test\springbdd\ProductServiceSteps.class
+com\test\springbdd\CucumberTest.class
+com\test\springbdd\StepDefinition.class
+com\test\springbdd\CategoryStepDefination.class
